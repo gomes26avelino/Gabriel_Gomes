@@ -6,9 +6,9 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Gabriel Gomes<br>
-        IT & Cybersecurity Professional | Network Security & Digital Forensics |<br>
-        Transitioning from Hospitality & Healthcare |<br>
-        Trilingual: English, Spanish, Portuguese | <br>
+        |IT & Cybersecurity Professional | Network Security & Digital Forensics |<br>
+        |Transitioning from Hospitality & Healthcare |<br>
+        |Trilingual: English, Spanish, Portuguese | <br>
         Currently learning more about the world of programming |<br>
         Open to collaborating on interesting and innovative projects.<br>
        
