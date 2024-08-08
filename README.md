@@ -1,5 +1,6 @@
 # Gabriel_Gomes
-<h1 align="center">Hi, guys! <img src="" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! <img src="./assets/Screenshot 2024-08-01 174229.png" width="28px" alt="👋"></h1>
+
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -49,7 +50,7 @@
 
 
 <!---
-luisnietohueso/luisnietohueso is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+Gabriel_Gomes/Gabriel_Gomes is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
