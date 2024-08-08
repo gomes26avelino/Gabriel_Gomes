@@ -1,5 +1,5 @@
 # Gabriel_Gomes
-<h1 align="center">Hi, guys!  alt="👋"></h1>
+<h1 align="center">Hi, guys! 👋></h1>
 
 
 
