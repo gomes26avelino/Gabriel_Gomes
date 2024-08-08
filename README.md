@@ -1,6 +1,6 @@
 # Gabriel_Gomes
 <h1 align="center">Hi, guys! 👋</h1>
-<img src="https://img.freepik.com/premium-vector/gradient-futuristic-technology-background_23-2151716506.jpg?w=1380" width="1000px" height="300px">
+<img src="https://img.freepik.com/premium-vector/gradient-futuristic-technology-background_23-2151716506.jpg?w=1380" width="1050px" height="300px">
 
 
 
