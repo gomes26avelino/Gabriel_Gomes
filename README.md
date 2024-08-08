@@ -11,13 +11,13 @@
         Currently learning more about the world of programming |<br>
         Open to collaborating on interesting and innovative projects.<br>
        
-    </i><br>
-    <a href="https://www.linkedin.com/in/gabriel-gomes-053b28264/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="mailto:gomes26avelino@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
+  <i></i><br>
+<a href="https://www.linkedin.com/in/gabriel-gomes-053b28264/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="mailto:gomes26avelino@gmail.com">
+    <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+</a>
 </p>
 
 ### Languages
