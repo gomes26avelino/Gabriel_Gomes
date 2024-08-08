@@ -1,5 +1,6 @@
 # Gabriel_Gomes
-<h1 align="center">Hi, guys! <img src="./assets/Screenshot 2024-08-01 174229.png" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! <img src="https://example.com/path-to-your-image.png" width="28px" alt="👋"></h1>
+
 
 
 <p align="center">
